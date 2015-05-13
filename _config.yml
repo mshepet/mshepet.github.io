@@ -1,0 +1,15 @@
+# Site settings
+title: Mike Shepet
+email: mike@mikeshepet.com
+description: > # this means to ignore newlines until "baseurl:"
+  I am Mike Shepet, an technology architect & solution designer from
+  Baltimore, MD.  I love to help awesome people build awesome products.
+baseurl: ""
+url: "http://mikeshepet.com"
+twitter_username: mshepet
+github_username:  mshepet
+
+paginator: 5
+
+# Build settings
+markdown: kramdown
